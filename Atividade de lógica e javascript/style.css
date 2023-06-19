@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+input{
+    margin: 10px;
+}
+
+.insira{
+    text-align: center;
+    padding: 10px;
+}
+
+
+body{
+    background-color: antiquewhite;
+}
