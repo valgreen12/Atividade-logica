@@ -1,0 +1,25 @@
+body{
+    background-color: #13ff00;
+    background-image: linear-gradient(45deg, #13ff00 0%, #fff800 100%);
+    height: 100vh;
+}
+
+main{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button
+{
+    margin-top: 1rem;
+    width: 100%;
+    border-radius: 10px;
+}
+
+main{
+    background-image: url(Brasao.jpg);
+    background-repeat: no-repeat;
+    
+}

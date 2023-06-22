@@ -1,0 +1,13 @@
+body{
+    padding: 15px;
+    font-size: 25px;
+    background-color: white;
+    color: black;
+    text-align: justify;
+
+}
+
+.dark-mode{
+    background-color: black;
+    color: white;
+}

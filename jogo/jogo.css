@@ -1,0 +1,17 @@
+.principal
+{
+    border: black solid;
+    height: 100vh;
+    margin: auto;
+    max-width: 1000px;
+    
+    
+}
+
+.nomedojogador
+{
+    margin: auto;
+    width:300px;
+    text-align: center;
+}
+

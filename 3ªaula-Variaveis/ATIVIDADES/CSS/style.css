@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #d5dddf;
+}
+
+main{
+    max-width: 245px;
+    margin: auto;
+    text-align: center;
+    height: 250px;
+    box-shadow:  20px 10px rgba(0, 0, 0, 0.2);
+    background-color: #1b2727;
+}
+
+main > h1{
+    color: #6b8e4e;
+    margin-top: 5px;
+}
+
+main > label{
+    color: #6b8e4e;
+}
+
+main > button{
+    background-color:#d5dddf;
+    border: none;
+    padding: 5px;
+    color: #1b2727;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+main > input{
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+

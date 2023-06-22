@@ -1,0 +1,22 @@
+main,section{
+    margin: auto;
+    width: 300px;
+    text-align: center;
+}
+
+button{
+    background-color: #a167c9;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding-top: 5px;
+    margin-top: 10px;
+    box-shadow: 3px 3px #cccc;
+    width: 100px;
+}
+
+input{
+    margin: 5px;
+    border-radius: 5px;
+    border-bottom: 1px solid black;
+}

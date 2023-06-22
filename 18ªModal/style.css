@@ -1,0 +1,27 @@
+.modal{
+    display: none;
+    background-color: rgba(0,0,0,0.4);
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.modal-constent{
+
+    background-color: #fefefefe;
+    width: 50%;
+    margin: 15%;
+    border: 1px solid #888;
+    padding: 20px;
+}
+
+.close{
+    color: #888;
+    cursor: pointer;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
